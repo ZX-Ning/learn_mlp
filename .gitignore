@@ -1,0 +1,6 @@
+.cache
+_debug
+.xmake
+build
+output
+weights.bin
